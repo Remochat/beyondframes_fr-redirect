@@ -1,2 +1,2 @@
 # beyondframes_fr-redirect
-redirection to beyondframes_00 repository
+redirection to https://beyondframes.co/ as beyondframes_00 repository
